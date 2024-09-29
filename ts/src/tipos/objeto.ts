@@ -7,5 +7,3 @@ pessoa.idade = 31;
 
 console.log(pessoa.nome);
 console.log(pessoa.idade);
-
-// a
